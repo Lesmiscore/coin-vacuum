@@ -12,7 +12,7 @@
     "@missmonacoin/bitcoincashjs-lib": "^1.0.1",
     "@missmonacoin/bitcoinjs-lib-zcash": "^1.0.0",
     "@missmonacoin/blackcoinjs-lib": "^1.0.0",
-    "bitcoinjs-lib": "^3.3.2",
+    "bitcoinjs-lib": "^6.0.0",
     "node-fetch": "^2.1.2",
     "request": "^2.85.0"
   }
